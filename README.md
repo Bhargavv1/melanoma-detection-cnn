@@ -31,7 +31,7 @@ The dataset is derived from ISIC 2017–2020 challenge datasets and **cannot be 
 ```bash
 pip install -r requirements.txt
 ```
-Then open `Final_Deep_learning_assessment_code.ipynb` in Jupyter or Colab.
+Then open `Deep_learning__code.ipynb` in Jupyter or Colab.
 
 ## 📁 File Structure
 - `Final_Deep_learning_assessment_code.ipynb`: Full notebook
