@@ -34,9 +34,9 @@ pip install -r requirements.txt
 Then open `Deep_learning__code.ipynb` in Jupyter or Colab.
 
 ## 📁 File Structure
-- `Final_Deep_learning_assessment_code.ipynb`: Full notebook
+- `Deep_learning__code.ipynb`: Full notebook
 - `requirements.txt`: Project dependencies
 - `data/`: Empty folder (placeholder for dataset)
 
 ## 👤 Author
-Bhargav Vaidya – MSc Data Science – Manchester Metropolitan University
+Bhargav Vaidya
